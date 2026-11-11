@@ -4,7 +4,6 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Prathamesh Langar — Developer & Builder",
   description: "I build thoughtful software across web development, cybersecurity, and local-first AI.",
-  metadataBase: new URL("https://prathamesh7498.github.io"),
   openGraph: { title: "Prathamesh Langar — Developer & Builder", description: "Understand the system. Build what matters.", type: "website" }
 };
 
