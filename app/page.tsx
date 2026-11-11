@@ -46,7 +46,7 @@ export default function Home() {
     <section className="hero">
       <div className="hero-grid" />
       <div className="orb orb-one" /><div className="orb orb-two" />
-      <div className="hero-top mono"><span>INDEPENDENT DEVELOPER / INDIA</span><span>LAT 18.5204° N · LON 73.8567° E</span></div>
+      <div className="hero-top mono"><span>INDEPENDENT DEVELOPER / INDIA</span><span>BUILDING FROM INDIA</span></div>
       <div className="hero-content">
         <p className="eyebrow"><span className="eyebrow-line" /> SOFTWARE, SYSTEMS & IDEAS</p>
         <h1>BUILDING<br/><span className="outline">BEYOND</span><br/>THE <span className="serif">obvious.</span></h1>
